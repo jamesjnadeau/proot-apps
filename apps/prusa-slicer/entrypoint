@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Start Firefox
+flatpak run com.prusa3d.PrusaSlicer "$@"

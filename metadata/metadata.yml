@@ -297,6 +297,11 @@ include:
     arch: linux/amd64
     icon: parsec.svg
     description: "Parsec is a remote desktop you'll actually love. Connect to work, games, or projects wherever you are, whenever you want."
+  - name: prusa-slicer
+    full_name: Prusa Slicer
+    arch: linux/amd64,linux/arm64
+    icon: firefox.svg
+    description: "An open-source, feature-rich, frequently updated tool that contains everything you need to export the perfect print files for your 3D printer."
   - name: postman
     full_name: Postman
     arch: linux/amd64,linux/arm64
